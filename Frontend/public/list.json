@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "department_name": "Computer Science and Application",
+        "courses": [
+            "Three-year graduation course in Computer Science (BSc Hons)",
+            "Bachelor of Computer Application (BCA)"
+        ],
+        "hod": "Mr. Prakash Manna",
+        "category": "Course"
+    },
+    {
+        "id": 2,
+        "department_name": "Mathematics Department",
+        "courses": [
+            "B.Sc. Honours in Mathematics",
+            "B.Sc. (General) in Mathematics"
+        ],
+        "hod": "Dr. Partha Sarathi Patra",
+        "category": "Course"
+    },
+    {
+        "id": 3,
+        "department_name": "Physics Department",
+        "courses": "Courses coming soon",
+        "hod": "Dr. Soumyajyoti Kabi",
+        "category": "Course"
+    },
+    {
+        "id": 4,
+        "department_name": "Geography Department",
+        "courses": [
+            "Three years Bachelor Degree of Science in the discipline of Geography with an intake capacity of 45 pupils in each year (Credit Based Choice System as approved by affiliating University, Vidyasagar University)"
+        ],
+        "hod": "Mr. Kanchan Paira",
+        "category": "Course"
+    },
+    {
+        "id": 5,
+        "department_name": "Botany Department",
+        "courses": [
+            "Core Course (CC) DSC-1A: Biodiversity (Microbes, Algae, Fungi and Archegoniate)",
+            "DSC-1B: Plant Ecology and Taxonomy",
+            "DSC-1C: Plant Anatomy and Embryology",
+            "DSC-1D: Plant Physiology and Metabolism"
+        ],
+        "hod": "AMRITA ROY",
+        "category": "Course"
+    },
+    {
+        "id": 6,
+        "department_name": "Chemistry Department",
+        "courses": "Courses coming soon",
+        "hod": "Dr. Shalmali Hui",
+        "category": "Course"
+    }
+]
